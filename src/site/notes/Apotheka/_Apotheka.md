@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apotheka/apotheka/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/apotheka/apotheka/"}
 ---
 
 
