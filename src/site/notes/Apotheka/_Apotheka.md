@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apotheka/apotheka/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/apotheka/apotheka/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
